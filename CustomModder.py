@@ -123,7 +123,7 @@ class DnsScannerApp(QMainWindow):
 
     def init_ui(self):
         self.setGeometry(100, 100, 400, 300)
-        self.setWindowTitle("DNSment")
+        self.setWindowTitle("CustomModder")
 
         self.text_edit = QPlainTextEdit(self)
         self.text_edit.setGeometry(10, 10, 380, 180)
