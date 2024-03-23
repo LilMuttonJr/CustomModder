@@ -23,7 +23,7 @@ CustomModder is a Python GUI application designed for modding your computer. It 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/CustomModder.git
+    git clone https://github.com/LilMuttonJr/CustomModder.git
     ```
 
 2. Navigate to the project directory:
