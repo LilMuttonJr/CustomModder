@@ -4,20 +4,26 @@
   <img src="./documentation_images/CustomModder-logo.png" alt="CustomModder Logo" width="200">
 </p>
 
-CustomModder is a Python GUI application designed for modding your computer. It provides a simple interface to overclock the CPU, change GPU settings, and modify fan speed.
+Fast DNS Server Scanner is a Python GUI application designed for getting the fastest DNS Server for your computer. It provides a simple interface to find the best DNS Server.
 
 ## Features
 
-- **Overclock CPU**: Boost your CPU performance by overclocking.
-- **Change GPU Settings**: Customize GPU settings for better performance or efficiency.
-- **Modify Fan Speed**: Adjust fan speed to control system temperature.
+- **Fast Scanning**: scans multiple DNS servers quickly to determine their performance
+- **Parallel Scanning**: Enable parallel scanning for faster results, though this may affect result accuracy
+- **Stability Analysis**: evaluates server stability to ensure a reliable connection.
+- **Packet Loss Rate**: Get insights into packet loss rates for each DNS server.
+
+## Disclaimer
+
+Intended Use: DNSment is developed for legitimate optimization purposes. Any misuse or malicious intent is strictly prohibited.
+
+User Responsibility: Users are encouraged to use DNSment responsibly and adhere to relevant laws and regulations.
+
+Data Privacy: DNSment operates locally and does not store or transmit user data. Your privacy is our priority.
 
 ## Requirements
 
 - Python 3.x
-- Tkinter
-- psutil
-
 
 ## Usage
 
